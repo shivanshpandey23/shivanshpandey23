@@ -55,8 +55,3 @@ You can click the Preview link to take a look at your changes.
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-1C1C1C?style=for-the-badge&logo=packer&logoColor=white)
-
-### GitHub Stats:
-
-![Your GitHub Stats](https://github.com/shivanshpandey23)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaparmar9813&show_icons=true&theme=radical)
