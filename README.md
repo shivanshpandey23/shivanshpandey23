@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pandey.ji.shivansh?igsh=dXVjaG4yMGx2bzYw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-pandey-7454882a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### Tech Stack:
 
@@ -58,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 
 ### GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github.com/shivanshpandey23)
