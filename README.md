@@ -3,21 +3,6 @@
 - 🌱 I’m currently studying in Thapar University (3rd Year)
 - 💞️ I’m looking to collaborate on any field that matches my interest
 - 📫 You can reach me trough my email id: spandey1_be21@thapar.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-shivanshpandey23/shivanshpandey23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### About Me:
-
-- 💻 I’m currently working on Hostel Management System
-- 🌱 I’m currently learning building infrastructure on the cloud
-- 📊 I’m looking for help with handling data at scale
-- 💬 Ask me about Next.js, React Query, UI Libraries, Go, and Databases
-- 🎉 Fun fact: I can do card tricks
-
 ### Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pandey.ji.shivansh?igsh=dXVjaG4yMGx2bzYw)
